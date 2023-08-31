@@ -5,10 +5,8 @@
     align-items: center;
     justify-content: center;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-    background-color: #344265;
   }
-  
-  
+
   .login-form {
     background-color: #b9bcccb6;
     margin-left: -15px;
